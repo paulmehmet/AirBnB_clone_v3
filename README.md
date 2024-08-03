@@ -168,8 +168,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-1. Michael Oni - [Github](https://github.com/TheOnis) 
-2. Blaise Promise - [Github](https://github.com/Blaisepromise-111)
+1. Paul Mercy Bosede - [Github](https://github.com/paulmehmet) 
+2. Sipo Mudenda - [Github](https://github.com/JojoBaPb)
 
 Second part of Airbnb: Joann Vuong
 ## License
